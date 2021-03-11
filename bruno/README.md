@@ -1,3 +1,3 @@
 # Bruno Cristian
 
-Está é a minha pasta de estudos sobre Vagrant ;)
+Está é a minha pasta de estudos sobre Vagrant
